@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **tienkhangle@gmail.com**
 
-- ⚡ Fun fact :- Food and Pokemon🎵 are the reasons to live.
+- ⚡ Fun fact :- Family and Pokemon🎵 are the reasons to live.
 
 <br>
 
