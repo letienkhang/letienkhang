@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lê Tiến Khang</h1>
 <h3 align="center">Working for Netacom, HCM🌟.</h3>
-
 <br>
-
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=letienkhang&label=Profile%20views&color=0e75b6&style=flat"
     alt="adam-pw" /> 
   </p>
