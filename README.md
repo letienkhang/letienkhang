@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lê Tiến Khang</h1>
-<h3 align="center">Work at Netacom, HCM🌟.</h3>
+<h3 align="center">Working for Netacom, HCM🌟.</h3>
 
 <br>
 
